@@ -2,11 +2,11 @@ body {
     font-family: Arial, sans-serif;
     background-color: #f0f0f0;
 }
-h1,h2{
-    text-align: center;
+.titulo{
     background-color: aqua;
+    text-align: center;
 }
-p{
+.body{
     background-color: red;
     font-size: larger;
 }
