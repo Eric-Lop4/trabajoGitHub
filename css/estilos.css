@@ -1,12 +1,21 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #f0f0f0;
+    background-color: #ffffff;
+    margin: 0;
+    padding: 0;
 }
-.titulo{
-    background-color: aqua;
+.cap{
     text-align: center;
-}
-.body{
     background-color: red;
+}
+.cos{
+    text-align: left;
+    background-color: blue;
     font-size: larger;
+    color: white;
+    width: 500px;
+}
+#img_git{
+    float: left;
+    margin-left: 100px;
 }
